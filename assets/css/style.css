@@ -1,0 +1,38 @@
+/*place du header global*/
+.block1{
+  font-family: 'Delius Swash Caps', cursive;
+  color: #946E83;
+  text-align: center;
+  background-color: #EFDEE0;
+  padding: 1em 5em 3em 5em;
+  margin-left: 10em;
+  margin-right: 2.5em;
+  width: 300px;
+  height: 500px;
+}
+.block2{
+  font-family: 'Delius Swash Caps', cursive;
+  color: #946E83;
+  text-align: center;
+  background-color: #EFDEE0;
+  padding: 1em 5em 3em 5em;
+  margin-left: 5em;
+  margin-right: 2.5em;
+  width: 300px;
+  height: 500px;
+}
+#blockLine3{
+  background-color: #F4EFE5;
+    display: flex;
+}
+.imgSize{
+  width: 150px;
+  height: 150px;
+}
+#textInformation{
+  font-family: 'Delius', cursive;
+  color: #D3A5AB;
+}
+#textDelivery{
+  color: #D3A5AB;
+}
